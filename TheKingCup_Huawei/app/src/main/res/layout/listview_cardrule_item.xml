@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <TextView
+        android:layout_width="40sp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cardrule"
+        android:text="10"
+        android:textSize="20sp"
+        android:padding="5sp"
+        android:textColor="@color/menuButton"
+        android:textStyle="bold"
+        android:layout_margin="10sp"
+        android:layout_centerVertical="true"
+        android:textAlignment="center"
+        android:id="@+id/tv_card_character"/>
+
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ACE"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_centerVertical="true"
+        android:id="@+id/tv_card_name"
+       android:layout_toRightOf="@+id/tv_card_character"
+      />
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VErsitcal"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_centerVertical="true"
+        android:id="@+id/tv_card_subject"
+        android:layout_alignParentRight="true"
+        />
+</RelativeLayout>

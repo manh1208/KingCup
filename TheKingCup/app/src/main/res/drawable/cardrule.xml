@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:radius="50sp"/>
+            <gradient
+                android:centerColor="@color/startButtonClick"
+                android:endColor="@color/startButtonClick"
+                android:startColor="@color/startButtonClick"
+                />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <corners android:radius="5sp"/>
+            <gradient
+                android:centerColor="@color/startButton"
+                android:endColor="@color/startButton"
+                android:startColor="@color/startButton"
+                />
+        </shape>
+    </item>
+
+</selector>

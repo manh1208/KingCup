@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingBottom="10sp"
+    android:paddingTop="10sp">
+    <TextView
+        android:layout_width="0sp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="Player 1"
+        android:id="@+id/tv_player_name"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="25sp"/>
+    <Button
+        android:layout_width="25sp"
+        android:layout_height="25sp"
+        android:id="@+id/btn_player_edit"
+        android:background="@drawable/edit_button"/>
+    <Button
+        android:layout_width="25sp"
+        android:layout_height="25sp"
+        android:layout_marginLeft="20sp"
+        android:id="@+id/btn_player_delete"
+        android:background="@drawable/delete_button"/>
+</LinearLayout>

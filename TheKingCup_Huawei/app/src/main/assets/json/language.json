@@ -1,0 +1,539 @@
+{
+  "message": "OK",
+  "statusCode": 200,
+  "languageList": [
+    {
+      "id": 1,
+      "name": "Deutsch",
+      "start":"Anfang",
+      "howToPlayContent":"Herzlich willkomen zu dem „Kelch des Königs\" Spiel! \n\nHier ist ein Trinkspiel mit Karten für jede beliebige Gruppe von Freunden, solange die Trinker ihre Getränke austrinken können, wenn sie Bestrafung bekommen. Einstellungen für „Kelch des Königs\" können unterschiedlich für jede Gruppe sein, deshalb ist es ratsam, die Regeln durch „Optionen\" auf der Hauptseite sorgfältig zu lesen. \n\nAlle Spieler müssen in einem Kreis sitzen. Ein großes Gefäß, das im Zentrum des Kreises gelegt und als „Kelch des Königs\" bezeichnet wird, ist erforderlich. \n\nZum Beginn berühr auf „Spielen\" auf der Hauptseite, dann geb die Namen der Spieler ein und danach berühr auf „Los geht\". \n\nEin Kartendeck ist ausgeteilt und in einem Kreis angeordnet. Jeder Spieler zieht nacheinander eine Karte beim Berühren der Karte auf dem Bildschirm. Die Auswahl der Karte ist ganz zufällig.Jede Karte trägt eine eigene Regel. Die Regeln sind sehr divers, manchmal können sie zur sofortigen Aktion oder Bestrafung auffordern, manchmal nur zum einmaligen Trinken. Falls jemand die Regel nicht befolgst, muss sie/ er auch trinken. \n\nWer zieht die Karte „K\" muss ein Viertel Weins in dem anfangs gewählten „Kelch des Königs\". Als die letzte Karte „K\" gezogen wird, muss der „glückliche\" Person den „Kelch des Königs\" wieder auffüllen und austrinken. \n\nDas Spiel kann aufgehört sein, als der „Kelch des Königs\" ausgetrunken ist. Trotzdem können die Spieler weiter spielen, wenn es noch Karte gibt.",
+      "howToPlay":"Wie zu spielen",
+      "setting":"Einstellung",
+      "rate":"Rate",
+      "sound":"klingen: an",
+      "soundOff":"klingen: aus",
+      "settingCardRule":"Karten-Regel",
+      "settingLanguage":"Sprache",
+      "settingFeedback":"Rückmeldung",
+      "settingHotGame":"Hot Game",
+      "settingLikeUs":"Like Us",
+      "settingOthersApps":"Andere Apps",
+      "playerSetup":"Spieler hinzufügen",
+      "player":"Spieler",
+      "pick":"pflücken",
+      "next":"Nächster",
+      "notiTitle":"Benachrichtigung",
+      "notiPlayAgain":"Erneut abspielen?",
+      "notiLeaveGame":"Verlasse das Spiel?",
+      "backPress":"Press the back button again to exit",
+      "pickAtleast":"Bitte fügen Sie mindestens einen Spieler",
+      "cards":[
+        {
+          "cardId":1,
+          "character":"A",
+          "name":"Ace",
+          "cardContent":"Wasserfall: Den Wasserfall beim Trinken beginnen. Wenn der Person auf der linken Seite trinkt, beginn zu trinken! Stopp, wenn sie/er aufhört!"
+        },
+        {
+          "cardId":2,
+          "character":"2",
+          "name":"Zwei",
+          "cardContent":"Sie:Wähl einen anderen Trinker!"
+        },
+        {
+          "cardId":3,
+          "character":"3",
+          "name":"Drei",
+          "cardContent":"Mich:Wer diese Karte genommen hat, muss trinken."
+        },
+        {
+          "cardId":4,
+          "character":"4",
+          "name":"Vier",
+          "cardContent":"Frauen: Alle Frauen müssen trinken"
+        },
+        {
+          "cardId":5,
+          "character":"5",
+          "name":"Fünf",
+          "cardContent":"Daumensmeister: Leg deinen Daumen auf dem Tisch! Der letzte Person muss trinken."
+        },
+        {
+          "cardId":6,
+          "character":"6",
+          "name":"Sechs",
+          "cardContent":"Männer: Alle Männer müssen trinken."
+        },
+        {
+          "cardId":7,
+          "character":"7",
+          "name":"Sieben",
+          "cardContent":"7UP: Zeig auf den Himmel! Der letzte Person muss trinken."
+        },
+        {
+          "cardId":8,
+          "character":"8",
+          "name":"Acht",
+          "cardContent":"Kuppeln: Wähl jemanden, um zu verkuppeln! Irgendwann du trinkst, trinkt sie/er auch."
+        },
+        {
+          "cardId":9,
+          "character":"9",
+          "name":"Neun",
+          "cardContent":"Reim: Sag ein Wort und andere Leute müssen darauf reimen. Wer das nicht ausführen kann, muss trinken."
+        },
+        {
+          "cardId":10,
+          "character":"10",
+          "name":"Zehn",
+          "cardContent":"Thema: Wähl ein Thema! Andere Leute müssen einen Satz über dieses Thema bauen. Wer das nicht ausführen kann, muss trinken."
+        },
+        {
+          "cardId":11,
+          "character":"J",
+          "name":"Jack",
+          "cardContent":"Regeln: Stell eine Regel auf, die die anderen Leute bis zur neu aufgestellten Regel befolgen müssen!"
+        },
+        {
+          "cardId":12,
+          "character":"Q",
+          "name":"Königin",
+          "cardContent":"Fragemeister: Stell eine Frage! Der Person, der antwortet, muss trinken."
+        },
+        {
+          "cardId":13,
+          "character":"K",
+          "name":"König",
+          "cardContent":"Kelch des Königs: Alle müssen trinken."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "English",
+      "start":"Start Game",
+      "howToPlayContent":" Welcome to The King’s Cup! \n\nThe King’s Cup is a drinking game played with cards by a group of people. Any number of player’s can take part as long as each players has an adequate amount of drink at their disposal. \n\nA large vessel for drinking out of is required, such as pint glass. This is referred to as the King’s Cup and ideally should be placed in the center with the players around it in a circle. Depending on the game setup other items may be required so it is worth checking the rules via ‘Options’ on the main screen before starting. \n\nTo begin the game select ‘Play’ on the main screen, enter the names of the people playing on the player setup screen, and tap ‘Play’. A deck of cards is laid out face down in a circle. Each player takes it in turns to pick a card from the deck. The player to start will be chosen for you at random. Pick a card by either tapping card. \n\nOnce a card is picked the face value will be shown. Each card has a rule associated with it. The rules are varied, among other things they can require instant action of the players or a mini drinking game to be played. \n\nBreaking the circle of cards when picking one usually requires a forfeit by the player, such as finishing off their drink. So make sure the rule and forfeit is decided and understood before starting the game. \n\nWhen a King is picked from the deck the card picker pours some of their drink into the King’s Cup, filling it by a quarter more than it is currently. when the last King is picked, the unfortunate player who picked it has to fill the King’s Cup to the top, and then down it. Typically this is the end of the game, however, if there are cards remaining the option to continue playing is given. 					",
+      "howToPlay":"How To Play",
+      "setting":"Setting",
+      "rate":"Rate",
+      "sound":"Sound: On",
+      "soundOff":"Sound: Off",
+      "settingCardRule":"Card Rule",
+      "settingLanguage":"Language",
+      "settingFeedback":"Feedback",
+      "settingHotGame":"Hot Game",
+      "settingLikeUs":"Like Us",
+      "settingOthersApps":"Other Apps",
+      "playerSetup":"Add Players",
+      "player":"Player",
+      "pick":"pick",
+      "next":"Next",
+      "notiTitle":"Notification",
+      "notiPlayAgain":"Do you want to play again",
+      "notiLeaveGame":"Leave Game?",
+      "backPress":"Press the back button again to exit",
+      "pickAtleast":"Please add at least one player",
+      "cards":[
+        {
+          "cardId":1,
+          "character":"A",
+          "name":"Ace",
+          "cardContent":"Waterfall: Start the waterfall by drinking. If the person to your left is drinking you start to drink. When they stop, you stop"
+        },
+        {
+          "cardId":2,
+          "character":"2",
+          "name":"Two",
+          "cardContent":"For you: Pick someone to take a drink"
+        },
+        {
+          "cardId":3,
+          "character":"3",
+          "name":"Three",
+          "cardContent":"Me: Person who selected the card must drink"
+        },
+        {
+          "cardId":4,
+          "character":"4",
+          "name":"Four",
+          "cardContent":"Girls: All the girls must drink"
+        },
+        {
+          "cardId":5,
+          "character":"5",
+          "name":"Five",
+          "cardContent":"Thumb master: Thumb master puts their thumb on the table at any point. Last person to put theirs down has to drink"
+        },
+        {
+          "cardId":6,
+          "character":"6",
+          "name":"Six",
+          "cardContent":"Guys: All the guys must drink"
+        },
+        {
+          "cardId":7,
+          "character":"7",
+          "name":"Seven",
+          "cardContent":"Heaven: Last person to point up must drink"
+        },
+        {
+          "cardId":8,
+          "character":"8",
+          "name":"Eight",
+          "cardContent":"Mate: Choose someone to become your mate during the game. Whenever you drink they must drink"
+        },
+        {
+          "cardId":9,
+          "character":"9",
+          "name":"Nine",
+          "cardContent":"Rhyme: Say a word and then everyone around the circle must make a rhyme. If they can't make one then they must drink"
+        },
+        {
+          "cardId":10,
+          "character":"10",
+          "name":"Ten",
+          "cardContent":"Categories: Choose a category and go around naming items in that cateogory. Whoever messes up must drink"
+        },
+        {
+          "cardId":11,
+          "character":"J",
+          "name":"Jack",
+          "cardContent":"Rule: Make a rule that lasts for the rest of the game (Example. Can't use your right hand) Anyone who breaks the rule must drink"
+        },
+        {
+          "cardId":12,
+          "character":"Q",
+          "name":"Queen",
+          "cardContent":"Question master: Become the Question Master. Whoever answers one of your question must drink "
+        },
+        {
+          "cardId":13,
+          "character":"K",
+          "name":"King",
+          "cardContent":"Kings Cup: Pour into the Kings Cup!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Việt Nam",
+      "start":"Bắt đầu",
+      "howToPlayContent":" Chào mừng đến với The King’s Cup Game \n\n Đây là 1 trò chơi bốc bài - uống rượu tập thể với bất kỳ số lượng người chơi, miễn là mỗi khi bị phạt, họ có thế “xử lý” hết phần đồ uống của mình. Các thiết lập của trò chơi có thể khác nhau và cần thêm những yếu tố riêng của từng nhóm nên hãy chắc chắn rằng bạn đọc qua các luật ở phần Options trước khi chơi nhé ! \n\nCách chơi: Hãy ngồi thành 1 vòng tròn và chọn 1 cái ly to nhất làm “Vua” rồi đặt nó ở giữa vòng tròn. \n\nĐể bắt đầu, hãy chọn nút “Chơi” trên màn hình chính, sau đó điền tên những người chơi và chọn nút “Bắt đầu”. \n\nMột bộ bài sẽ được xếp úp mặt xuống sẵn theo vòng tròn. Từng người chơi lần lượt rút 1 lá bài bằng cách chạm vào lá bài trên màn hình điện thoại. Lá bài bạn chọn là hoàn toàn ngẫu nhiên. Mỗi lá bài sẽ mang 1 luật tương ứng. Các luật này rất đa dạng, có khi yêu cầu bạn phải làm theo ngay lập tức, có khi chỉ là uống. Nếu bạn vi phạm luật ghi trên lá bài, bạn cũng phải uống. \n\nAi bốc phải lá Vua thì phải đổ thêm 1/4 rượu vào ly King đã chọn ban đầu. Khi lá King cuối cùng được bốc lên, thì bạn \"may mắn\" bốc phải lá Vua này phải đổ đầy ly Vua và uống hết. \n\nBạn có thể dừng trò chơi khi ly Vua dc uống hết, nhưng nếu bài vẫn còn thì vẫn có thể chơi tiếp. 					",
+      "howToPlay":"Cách chơi",
+      "setting":"Cài Đặt",
+      "rate":"Đánh giá",
+      "sound":"Âm thanh: Bật",
+      "soundOff":"Âm thanh: Tắt",
+      "settingCardRule":"Quy tắc",
+      "settingLanguage":"Ngôn ngữ",
+      "settingFeedback":"Phản hồi",
+      "settingHotGame":"Trò chơi hay",
+      "settingLikeUs":"Like Us",
+      "settingOthersApps":"Trò chơi khác",
+      "playerSetup":"Thêm người chơi",
+      "player":"Người chơi",
+      "pick":"chọn",
+      "next":"Tiếp theo",
+      "notiTitle":"Thông báo",
+      "notiPlayAgain":"Bạn có muốn chơi lại?",
+      "notiLeaveGame":"Thoát game",
+      "backPress":"Bấm nút trở lại lần nữa để thoát",
+      "pickAtleast":"Xin hãy thêm ít nhất 1 người chơi",
+      "cards":[
+        {
+          "cardId":1,
+          "character":"A",
+          "name":"Át",
+          "cardContent":"Uống dây chuyền: Nếu người bên trái của bạn uống, thì bạn bắt đầu uống. Họ dừng thì bạn dừng, ai dừng trước phải uống thêm "
+        },
+        {
+          "cardId":2,
+          "character":"2",
+          "name":"Hai",
+          "cardContent":"Bạn nhậu: Người bóc bài chọn 1 người nào đó uống cùng mình"
+        },
+        {
+          "cardId":3,
+          "character":"3",
+          "name":"Ba",
+          "cardContent":"Người bóc bài: Ai chọn lá này thì uống đi"
+        },
+        {
+          "cardId":4,
+          "character":"4",
+          "name":"Bốn",
+          "cardContent":"Các bạn nữ: Các bạn uống đi nha"
+        },
+        {
+          "cardId":5,
+          "character":"5",
+          "name":"Năm",
+          "cardContent":"Ngón tay cái quyền lực: ai bốc lá này thì đặt ngay ngón tay cái của mình xuống bàn, người cuối cùng đặt ngón tay cái của mình xuống hãy uống nhé ^^ "
+        },
+        {
+          "cardId":6,
+          "character":"6",
+          "name":"Sáu",
+          "cardContent":"Các bạn nam: Các bạn uống đi nha"
+        },
+        {
+          "cardId":7,
+          "character":"7",
+          "name":"Bảy",
+          "cardContent":"Seven Up: Chỉ tay lên trời liền ! Ai làm cuối là uống ! "
+        },
+        {
+          "cardId":8,
+          "character":"8",
+          "name":"Tám",
+          "cardContent":"Kết đôi: Hãy chọn 1 người kết đôi với bạn. Cứ khi nào bạn uống thì người đó cũng phải uống"
+        },
+        {
+          "cardId":9,
+          "character":"9",
+          "name":"Chín",
+          "cardContent":"Gieo vần: Hãy nói 1 từ nào đó và những người tiếp theo phải lần lượt nói ra các từ cùng vần với từ của bạn. Ai không làm được thì uống. VD. uống - cuốn - luốn"
+        },
+        {
+          "cardId":10,
+          "character":"10",
+          "name":"Mười",
+          "cardContent":"Chủ đề: Hãy chọn 1 chủ đề nào đó, những người tiếp theo phải nói 1 câu liên quan tới chủ đề ấy. Ai không nói được thì uống ! "
+        },
+        {
+          "cardId":11,
+          "character":"J",
+          "name":"Bồi",
+          "cardContent":"Đặt luật: Hãy đặt ra 1 luật cho mọi người cùng làm theo. Ai phạm luật thì người đó uống. Luật sẽ hết tác dụng tới khi có người đặt luật khác. "
+        },
+        {
+          "cardId":12,
+          "character":"Q",
+          "name":"Đầm",
+          "cardContent":"Đặt câu hỏi: Bạn đặt ra 1 câu hỏi, người nào trả lời câu hỏi đó sẽ uống. VD. Hôm nay bạn ăn gì? - Cơm. Hết hiệu lực khi bóc lá Queen tiếp theo"
+        },
+        {
+          "cardId":13,
+          "character":"K",
+          "name":"Già",
+          "cardContent":"Kings Cup: Mọi người đều uống"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "日本語",
+      "start":"スタート",
+      "howToPlayContent":"ザキングスカップゲームようこそ。\n\nこれは選手の人数をかまわず、カードでお酒を飲む人を決め、団体で遊べるゲームです。負ける人は自分のドリンクを全部飲ませられます。グループによって、ゲームのやり方が違うため、始める前にOptionでのルールを必ず読んでください。\n\n遊び方：円座をして、一つのキングとしてのコップを選んで、円の真ん中に置いておきます。\nスタートのためにメイン画面で「プレー」ボタンを選択して、それから選手の名前を記入して、「スタート」ボタンを選択してください。\n\nトランプは伏せられて、丸形に置かれておきます。一人ずつは順番で画面に出ているカードにタッチします。タッチしたカードは偶然です。それぞれカードには応じる規律を持ちます。カードのよって、リクエストが違います。例えば、あるカードを取ったら、すぐリクエストの通りにやらないといけないが、あるカードは飲むだけでいいです。カードに書いているルールに反すると、あなたも飲まなければなりません。\n\n 誰がキングスカードを取ってしまうのは最初の選んだ「キングス」コップに酒をコップの5分の１添加しなければなりません。最後の「キングス」カードを取られるとき、「ラッキー」人がこのカードを取ってしまうのは「キングス」カップに酒を一杯入れてすべて飲まなければなりません。\n\n「キングス」カップの中に酒が飲まれたときにあなたはゲームを止めかねないが、まだカードがありますから楽しみ続けられます。",
+      "howToPlay":"遊び方",
+      "setting":"設定",
+      "rate":"レート",
+      "sound":"音: オン",
+      "soundOff":"音: オフ",
+      "settingCardRule":"カードのルール",
+      "settingLanguage":"言語",
+      "settingFeedback":"反応",
+      "settingHotGame":"ホットゲーム",
+      "settingLikeUs":"Like Us",
+      "settingOthersApps":"他のアプリ",
+      "playerSetup":"プレーヤーを追加して",
+      "player":"プレーヤー",
+      "pick":"が選ぶ",
+      "next":"次",
+      "notiTitle":"お知らせ",
+      "notiPlayAgain":"もう一度",
+      "notiLeaveGame":"ゲームが終了だ？",
+      "backPress":"も一度BACKボタンを押してください",
+      "pickAtleast":"少なくとも一人のプレイヤーを追加してください",
+      "cards":[
+        {
+          "cardId":1,
+          "character":"A",
+          "name":"エース",
+          "cardContent":"チェーンのタイプで飲む:　左の人が飲んだら、飲みはじめてください。その人が止めたら止めてください。先に止める人はもっと飲ませられます。"
+        },
+        {
+          "cardId":2,
+          "character":"2",
+          "name":"デュース",
+          "cardContent":"友達:　カードを取る人は誰かを読んで、一緒に飲みます"
+        },
+        {
+          "cardId":3,
+          "character":"3",
+          "name":"トレイ",
+          "cardContent":"カードを取る人:　このカードを取った人は飲んでください。"
+        },
+        {
+          "cardId":4,
+          "character":"4",
+          "name":"ケイト",
+          "cardContent":"女性:　みんな飲んでくださいね。"
+        },
+        {
+          "cardId":5,
+          "character":"5",
+          "name":"シンク",
+          "cardContent":"権力親指:　誰かこのカードを取ったら,すぐに自分の親指をテーブルに伏せて、最後に親指を伏せる人は飲んでください。"
+        },
+        {
+          "cardId":6,
+          "character":"6",
+          "name":"サイス",
+          "cardContent":"男性:　みんな飲んでください。"
+        },
+        {
+          "cardId":7,
+          "character":"7",
+          "name":"セブン",
+          "cardContent":"セブンアップ:　人差し指で空を指差して下さい！最後の人は飲んでください！"
+        },
+        {
+          "cardId":8,
+          "character":"8",
+          "name":"エイト",
+          "cardContent":"ペアリング:　あなたと結託して人を選んでください。あなたが飲むたびにあの人も飲まなければなりません。"
+        },
+        {
+          "cardId":9,
+          "character":"9",
+          "name":"ナイン",
+          "cardContent":"音韻:　任意の言葉を話して、次の言葉に対して先の言葉の韻と同一韻の言葉を話さなければなりません。できない人は飲まなければなりません。"
+        },
+        {
+          "cardId":10,
+          "character":"10",
+          "name":"テン",
+          "cardContent":"テーマ:　皆でルールを決めます。ルールを守らない人はのみます。"
+        },
+        {
+          "cardId":11,
+          "character":"J",
+          "name":"ジャック",
+          "cardContent":"規律決定:　みんなにルールを決定して一括してやります。　法に触れる人は飲みます。　誰が他の規律を決定する時は古い規律を失効することになりました。"
+        },
+        {
+          "cardId":12,
+          "character":"Q",
+          "name":"クイーン",
+          "cardContent":"問を掛ける:　質問を出して、　誰がその質問を答えるのは飲みます。　例：　今日は何を食べますか。　‐　ご飯.  次のＱカードを取るとき効力がありません"
+        },
+        {
+          "cardId":13,
+          "character":"K",
+          "name":"キング",
+          "cardContent":"キングスカップ:　皆で飲みます"
+        }
+      ]
+    }
+  ,
+    {
+      "id": 5,
+      "name": "中文",
+      "start":"开始游戏",
+      "howToPlayContent":"歡迎各位來到『王者之盃』\n\n 這是一個抽卡遊戲 - 不限制人數之團體飲酒遊戲，只要你是受罰者，你可以把你的飲品的「輕輕鬆鬆」地處理完。遊戲規則可以自行變更並且需要參賽團體的一些特色，所以遊戲開始前大家需要在「選擇」項目了解遊戲規則！\n\n 遊戲方法：各位參賽者坐成一個圈圈，並選擇最大的杯子當‘王杯’然後把它放在中央。\n\n 於主頁面按『開始遊戲』，輸入參賽者的名字並按『開始』。將會有一副牌蓋著在圓圈內。每一位參賽者將陸續透過手機螢幕顯示給自己抽一張卡，抽到的卡都是隨機的。每一張牌都有不同的規定，而且這些規定都是五花八門的，有一些卡會要求你馬上完成某個任務，最簡單的就是喝。若你犯規，你也得喝。\n\n 誰抽到王卡就把自己四分之一的酒倒入剛剛選為最大的王杯。當最後一張王卡被抽到，那就『恭喜你』因為就是你抽到王卡，並把全部的酒倒入‘王杯’且喝光。\n\n當‘王杯’裡的酒已經被處理完，參賽者可以停止遊戲，但是如果仍有卡的話，遊戲還是可以繼續。",
+      "howToPlay":"怎么玩",
+      "setting":"设置",
+      "rate":"率",
+      "sound":"音：开",
+      "soundOff":"音：关",
+      "settingCardRule":"卡规则",
+      "settingLanguage":"语言",
+      "settingFeedback":"反馈",
+      "settingHotGame":"热门游戏",
+      "settingLikeUs":"Like Us",
+      "settingOthersApps":"其他应用程序",
+      "playerSetup":"添加球员",
+      "player":"播放机",
+      "pick":"挑",
+      "next":"下一个",
+      "notiTitle":"通知",
+      "notiPlayAgain":"Play again?",
+      "notiLeaveGame":"Leave game?",
+      "backPress":"Press the back button again to exit",
+      "pickAtleast":"请添加至少一个播放器",
+      "cards":[
+        {
+          "cardId":1,
+          "character":"A",
+          "name":"Ace",
+          "cardContent":"Waterfall: Start the waterfall by drinking. If the person to your left is drinking you start to drink. When they stop, you stop"
+        },
+        {
+          "cardId":2,
+          "character":"2",
+          "name":"Two",
+          "cardContent":"For you: Pick someone to take a drink"
+        },
+        {
+          "cardId":3,
+          "character":"3",
+          "name":"Three",
+          "cardContent":"Me: Person who selected the card must drink"
+        },
+        {
+          "cardId":4,
+          "character":"4",
+          "name":"Four",
+          "cardContent":"Girls: All the girls must drink"
+        },
+        {
+          "cardId":5,
+          "character":"5",
+          "name":"Five",
+          "cardContent":"Thumb master: Thumb master puts their thumb on the table at any point. Last person to put theirs down has to drink"
+        },
+        {
+          "cardId":6,
+          "character":"6",
+          "name":"Six",
+          "cardContent":"Guys: All the guys must drink"
+        },
+        {
+          "cardId":7,
+          "character":"7",
+          "name":"Seven",
+          "cardContent":"Heaven: Last person to point up must drink"
+        },
+        {
+          "cardId":8,
+          "character":"8",
+          "name":"Eight",
+          "cardContent":"Mate: Choose someone to become your mate during the game. Whenever you drink they must drink"
+        },
+        {
+          "cardId":9,
+          "character":"9",
+          "name":"Nine",
+          "cardContent":"Rhyme: Say a word and then everyone around the circle must make a rhyme. If they can't make one then they must drink"
+        },
+        {
+          "cardId":10,
+          "character":"10",
+          "name":"Ten",
+          "cardContent":"Categories: Choose a category and go around naming items in that cateogory. Whoever messes up must drink"
+        },
+        {
+          "cardId":11,
+          "character":"J",
+          "name":"Jack",
+          "cardContent":"Rule: Make a rule that lasts for the rest of the game (Example. Can't use your right hand) Anyone who breaks the rule must drink"
+        },
+        {
+          "cardId":12,
+          "character":"Q",
+          "name":"Queen",
+          "cardContent":"Question master: Become the Question Master. Whoever answers one of your question must drink "
+        },
+        {
+          "cardId":13,
+          "character":"K",
+          "name":"King",
+          "cardContent":"Kings Cup: Pour into the Kings Cup!"
+        }
+      ]
+    }
+
+
+  ]
+}

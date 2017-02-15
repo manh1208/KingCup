@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kings Cup Multi Languages</string>
+    <string name="title_activity_player_setup">PlayerSetup</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_card_rule">CardRuleActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8272403203330390/7875871860</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8272403203330390/9352605065</string>
+    <string name="sender_id">581830311217</string>
+</resources>

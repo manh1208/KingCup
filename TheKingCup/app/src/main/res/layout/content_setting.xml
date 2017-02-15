@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.superapp.kingscupdrinkingamefunpartyrock.activity.SettingActivity"
+    tools:showIn="@layout/activity_setting">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:paddingLeft="60sp"
+        android:paddingRight="60sp"
+       >
+
+        <Button
+            android:id="@+id/btn_setting_rule"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="0sp"
+            android:background="@drawable/custom_button_start"
+            android:paddingBottom="@dimen/btn_start_padding_topbottom"
+            android:paddingLeft="@dimen/btn_start_padding_leftright"
+            android:paddingRight="@dimen/btn_start_padding_leftright"
+            android:paddingTop="@dimen/btn_start_padding_topbottom"
+            android:text="Card Rule"
+            android:textColor="@color/menuButton"
+            android:textSize="@dimen/btn_settings"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_setting_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/custom_button_start"
+            android:paddingBottom="@dimen/btn_start_padding_topbottom"
+            android:paddingLeft="@dimen/btn_start_padding_leftright"
+            android:paddingRight="@dimen/btn_start_padding_leftright"
+            android:paddingTop="@dimen/btn_start_padding_topbottom"
+            android:text="Language"
+            android:textColor="@color/menuButton"
+            android:textSize="@dimen/btn_settings"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_setting_feedback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/custom_button_start"
+            android:paddingBottom="@dimen/btn_start_padding_topbottom"
+            android:paddingLeft="@dimen/btn_start_padding_leftright"
+            android:paddingRight="@dimen/btn_start_padding_leftright"
+            android:paddingTop="@dimen/btn_start_padding_topbottom"
+            android:text="FeedBack"
+            android:textColor="@color/menuButton"
+            android:textSize="@dimen/btn_settings"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_setting_hotgame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/custom_button_start"
+            android:paddingBottom="@dimen/btn_start_padding_topbottom"
+            android:paddingLeft="@dimen/btn_start_padding_leftright"
+            android:paddingRight="@dimen/btn_start_padding_leftright"
+            android:paddingTop="@dimen/btn_start_padding_topbottom"
+            android:text="Hot Game"
+            android:textColor="@color/menuButton"
+            android:textSize="@dimen/btn_settings"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_setting_likeus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/custom_button_start"
+            android:paddingBottom="@dimen/btn_start_padding_topbottom"
+            android:paddingLeft="@dimen/btn_start_padding_leftright"
+            android:paddingRight="@dimen/btn_start_padding_leftright"
+            android:paddingTop="@dimen/btn_start_padding_topbottom"
+            android:text="Like Us"
+            android:textColor="@color/menuButton"
+            android:textSize="@dimen/btn_settings"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_setting_otherapp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/custom_button_start"
+            android:paddingBottom="@dimen/btn_start_padding_topbottom"
+            android:paddingLeft="@dimen/btn_start_padding_leftright"
+            android:paddingRight="@dimen/btn_start_padding_leftright"
+            android:paddingTop="@dimen/btn_start_padding_topbottom"
+            android:text="Others Apps"
+            android:textColor="@color/menuButton"
+            android:textSize="@dimen/btn_settings"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/bannerLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" >
+    </LinearLayout>
+</RelativeLayout>
